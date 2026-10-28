@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Luciano Murilo T. Besse</h1>
 <h3 align="center">Senior Backend / Fullstack PHP Engineer | Tech Lead | SaaS & Multi-tenant Architecture Specialist</h3>
 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-besse)
 ---
 
 ### 💼 About Me
 - 🔭 I’m currently working on scalable multi-tenant SaaS systems and leading tech teams.
 - 🌱 I’m currently focusing on backend performance, microservices, and AI integrations (LLMs, RAG, Tool Calling).
 - 💬 Ask me about **PHP (Laravel/Symfony)**, **Go**, **System Architecture**, and **Tech Leadership**.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/murilo-besse)
 
 ---
 
