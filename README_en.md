@@ -22,7 +22,11 @@ Tech Lead and Backend Engineer with 14+ years of experience, from ERP systems an
 
 ---
 
+<div align="center">
+
 ### 🛠️ Languages and Tools
+
+![Most used languages](./profile/top-langs-pt.svg)
 
 💻 **Backend Development**
 
@@ -58,3 +62,5 @@ Tech Lead and Backend Engineer with 14+ years of experience, from ERP systems an
 🔧 **Development Tools**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
