@@ -1,3 +1,5 @@
+<p align="center"><b>🇺🇸 English</b> | <a href="README.md">🇧🇷 Português</a></p>
+
 <h1 align="center">Hi 👋, I'm Luciano Murilo T. Besse</h1>
 <h3 align="center">Tech Lead | Backend Software Engineer | PHP, Symfony, APIs & Financial Integrations | Distributed Systems & AI</h3>
 
