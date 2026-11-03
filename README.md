@@ -22,7 +22,11 @@ Tech Lead e Engenheiro Backend com mais de 14 anos de experiência, de sistemas 
 
 ---
 
+<div align="center">
+
 ### 🛠️ Linguagens e Ferramentas
+
+![Most used languages](./profile/top-langs-pt.svg)
 
 💻 **Desenvolvimento Backend**
 
@@ -58,3 +62,5 @@ Tech Lead e Engenheiro Backend com mais de 14 anos de experiência, de sistemas 
 🔧 **Ferramentas de Desenvolvimento**
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
