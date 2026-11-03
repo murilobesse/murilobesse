@@ -26,8 +26,6 @@ Tech Lead e Engenheiro Backend com mais de 14 anos de experiência, de sistemas 
 
 ### 🛠️ Linguagens e Ferramentas
 
-![Most used languages](./profile/top-langs-pt.svg)
-
 💻 **Desenvolvimento Backend**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
