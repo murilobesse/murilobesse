@@ -26,8 +26,6 @@ Tech Lead and Backend Engineer with 14+ years of experience, from ERP systems an
 
 ### 🛠️ Languages and Tools
 
-![Most used languages](./profile/top-langs-pt.svg)
-
 💻 **Backend Development**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
