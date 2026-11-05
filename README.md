@@ -1,6 +1,6 @@
 <p align="center"><a href="README_en.md">🇺🇸 English</a> | <b>🇧🇷 Português</b></p>
 
-<h1 align="center">Olá 👋, eu sou Luciano Murilo T. Besse</h1>
+<h1 align="center">Olá, eu sou Luciano Murilo T. Besse</h1>
 <h3 align="center">Tech Lead | Engenheiro de Software Backend | PHP, Symfony, APIs e Integrações Financeiras | Sistemas Distribuídos e IA</h3>
 
 <div align="center">
